@@ -9,7 +9,7 @@ module.exports = {
     // ==========================================
     // 🔑 SESSION & AUTH
     // ==========================================
-    SESSION_ID: process.env.SESSION_ID || "POPKID;;;HcURgQQT#el1w53_DkYDDW13cEvqw0q80vHfOfnyZO_cyAL0mAUU",
+    SESSION_ID: process.env.SESSION_ID || "ICRAHM;;;HcURgQQT#el1w53_DkYDDW13cEvqw0q80vHfOfnyZO_cyAL0mAUU",
     
     // ==========================================
     // 🚀 STATUS SETTINGS (Optimized for Speed)
@@ -17,7 +17,7 @@ module.exports = {
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐕𝐈𝐄𝐖𝐄𝐃✅*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*ICRAHM 𝐌𝐃 𝐈𝐃✅*",
     CUSTOM_STATUS_EMOJIS: process.env.CUSTOM_STATUS_EMOJIS || "❤️,✨,🔥,💯,👑,🥰,😇,🧡",
 
     // ==========================================
