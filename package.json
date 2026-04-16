@@ -1,13 +1,13 @@
 {
-  "name": "POPKID",
+  "name": "ICRAHM",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By POPKID",
+  "description": "A WhatsApp Bot Created By ICRAHM",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "pm2": "pm2 start index.js --deep-monitoring --attach --name POPKID-MD",
-    "stop": "pm2 stop POPKID-MD",
-    "restart": "pm2 restart POPKID-MD"
+    "stop": "pm2 stop ICRAHM-MD",
+    "restart": "pm2 restart ICRAHM-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys":"npm:gifted-baileys@2.0.6",
